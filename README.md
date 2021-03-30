@@ -1,4 +1,6 @@
-# Green Stock Module Challenge Overview
+# Green Stock Module Challenge 
+
+### Overview
 This assignment is an application of coding in Microsoft Visual Basic (VBA) for Excel to analyze stocks for a client (Steve) by creating a simple macro that would determine the best stocks for the client's parents investment.
 
 ### Purpose
