@@ -1,2 +1,18 @@
-# Challenge
-This assignment is an application of coding in VBA for Excel to analyze stocks for a client by creating a simple program in VBA. It goes through covering loops and arrays which were the most difficult in the assignment when I switched over to trying to re-design the code for the challenge assignment. I will definitely be practicing this module more as the re-designing process was very difficult. 
+# Green Stock Module Challenge
+This assignment is an application of coding in VBA for Excel to analyze stocks for a client by creating a simple program in VBA. It goes through covering loops and arrays. 
+
+# Overview
+
+### Purpose
+
+### Method of Refractoring Code 
+Software used: Microsoft Excel VBA Script
+
+
+
+### Results
+
+
+
+
+### Discussion on Refactoring Code
