@@ -5,8 +5,14 @@ This assignment is an application of coding in VBA for Excel to analyze stocks f
 
 ### Purpose
 
-### Methods
+### Method of Refractoring Code 
+Software used: Microsoft Excel VBA Script
+
+
 
 ### Results
+
+
+
 
 ### Discussion on Refactoring Code
